@@ -7,7 +7,7 @@ Its a good learning for someone who is looking out to understand the picture fro
 
 Below is the tree view of the contents - 
 
-.
+```
 ├── LICENSE
 ├── README.md
 ├── mysql-deployment.yaml
@@ -30,6 +30,6 @@ Below is the tree view of the contents -
         └── templates
             ├── footer.php
             └── header.php
-
+```
 
 
